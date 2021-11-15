@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffaiqlatheef.github.io/myFolio/)](https://faiqlatheef.github.io/myFolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/faiqlatheef?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/faiq_latheef&screen_name=faiqlatheef)
 
-## I'm a Software Engineer, Data analyst, Web Developer, Web Designer, Frontend Developer, Backend Developer, Desktop Application Developer, and Good Team Player!!
+## I'm a Software Engineer, Data Science Enthusiastic, Web Developer, Web Designer, Frontend Developer, Backend Developer, Desktop Application Developer, and Good Team Player!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m a good team player
