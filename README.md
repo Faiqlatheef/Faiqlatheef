@@ -1,7 +1,7 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffaiqlatheef.github.io/myFolio/)](https://faiqlatheef.github.io/myFolio/)
 
 <h1 align="center"> Hi there 👋 I'm Faiq  </h1>
-<img align="right" alt="coding" width="100" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
 ## I'm a Software Engineer, Data Science Enthusiastic, Web Developer, Web Designer, Frontend Developer, Backend Developer, Desktop Application Developer, and Good Team Player!!
