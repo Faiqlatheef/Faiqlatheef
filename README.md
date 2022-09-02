@@ -1,5 +1,5 @@
-### Hi there, I'm Faiq Latheef 👋 
-
+<h1 align="center"> Hi there 👋 I'm Faiq  </h1>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffaiqlatheef.github.io/myFolio/)](https://faiqlatheef.github.io/myFolio/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/faiqlatheef?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/faiq_latheef&screen_name=faiqlatheef)
 
