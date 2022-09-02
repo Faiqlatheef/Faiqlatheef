@@ -45,8 +45,6 @@
   <img align="left" alt="Faiqlatheef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Faiqlatheef&show_icons=true&hide_border=true" />
 
 </details>
-[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffaiqlatheef.github.io/myFolio/)](https://faiqlatheef.github.io/myFolio/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/faiqlatheef?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/faiq_latheef&screen_name=faiqlatheef)
 [website]: https://faiqlatheef.github.io/myFolio/
 [twitter]: https://twitter.com/faiq_latheef
 [instagram]: https://www.instagram.com/faiqlatheef
