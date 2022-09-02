@@ -27,7 +27,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.gif?cid=82a1493b2hsfhd53gkf9zj1gpqq0q1yt30i448b8u0bqwl1q&rid=200w.gif&ct=g">
 
 <p>
   <img align="left" alt="Faiqlatheef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Faiqlatheef&show_icons=true&hide_border=true" />
