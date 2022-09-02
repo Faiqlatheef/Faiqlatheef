@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffaiqlatheef.github.io/myFolio/)](https://faiqlatheef.github.io/myFolio/)
-<img align="center" height = "500" src="https://eportfolio.utm.my/artefact/file/download.php?file=711657&view=178366&embedded=1&text=713709" alt="Hello world">
+<img align="center" height = "500" src="https://cdna.artstation.com/p/assets/images/images/028/419/378/original/koen-leung-comp.gif?1594410959" alt="Hello world">
 
 <h1 align="center"> Hi there 👋 I'm Faiq  </h1>
 <img align="right" alt="coding" width="100" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
