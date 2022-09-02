@@ -1,4 +1,9 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffaiqlatheef.github.io/myFolio/)](https://faiqlatheef.github.io/myFolio/)
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 <h1 align="center"> Hi there 👋 I'm Faiq  </h1>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
@@ -30,6 +35,6 @@
   <img align="left" alt="Faiqlatheef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Faiqlatheef&show_icons=true&hide_border=true" />
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqlatheef&show_icons=true&locale=en&layout=compact" alt="Faiqlatheef" /></p>
-
-</details>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Faiqlatheef" alt="Faiqlatheef" /></p>
+</details>
+
