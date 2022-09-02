@@ -28,10 +28,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p>
-  <img align="left" alt="Faiqlatheef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Faiqlatheef&show_icons=true&hide_border=true" />
+  <img align="center" alt="Faiqlatheef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Faiqlatheef&show_icons=true&hide_border=true" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqlatheef&show_icons=true&locale=en&layout=compact" alt="Faiqlatheef" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Faiqlatheef" alt="Faiqlatheef" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqlatheef&show_icons=true&locale=en&layout=compact" alt="Faiqlatheef" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Faiqlatheef" alt="Faiqlatheef" /></p>
 </details>
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/Faiqlatheef.gif?z=6)](https://github4life.herokuapp.com/Faiqlatheef)
