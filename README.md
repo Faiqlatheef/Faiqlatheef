@@ -28,7 +28,8 @@
   <summary>:zap: GitHub Stats</summary>
 <p>
   <img align="left" alt="Faiqlatheef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Faiqlatheef&show_icons=true&hide_border=true" />
-  </p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqlatheef&show_icons=true&locale=en&layout=compact" alt="Faiqlatheef" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Faiqlatheef" alt="Faiqlatheef" /></p>
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqlatheef&show_icons=true&locale=en&layout=compact" alt="Faiqlatheef" /></p>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Faiqlatheef" alt="Faiqlatheef" /></p>
 </details>
