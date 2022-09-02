@@ -1,9 +1,6 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffaiqlatheef.github.io/myFolio/)](https://faiqlatheef.github.io/myFolio/)
-<img src="https://camo.githubusercontent.com/17d80afee9dd9df1c590ad8d5a71f0f09f6fde2e46f855f573d40d70a4bfaeef/68747470733a2f2f7777772e7361666572736f63696574792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f4769662d616e696d6174696f6e2d68656c6c6f2e676966" alt="Hello world">
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Faiqlatheef/count.svg" />
-</p>
+<img align="center" height = "500" src="https://camo.githubusercontent.com/17d80afee9dd9df1c590ad8d5a71f0f09f6fde2e46f855f573d40d70a4bfaeef/68747470733a2f2f7777772e7361666572736f63696574792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f4769662d616e696d6174696f6e2d68656c6c6f2e676966" alt="Hello world">
+
 <h1 align="center"> Hi there 👋 I'm Faiq  </h1>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
