@@ -30,6 +30,4 @@
   <img align="left" alt="Faiqlatheef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Faiqlatheef&show_icons=true&hide_border=true&theme=tokyonight" />
   </p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqlatheef&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Faiqlatheef" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Faiqlatheef&show_icons=true&locale=en&theme=tokyonight" alt="Faiqlatheef" /></p>
 </details>
