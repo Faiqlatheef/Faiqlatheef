@@ -1,5 +1,4 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffaiqlatheef.github.io/myFolio/)](https://faiqlatheef.github.io/myFolio/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/faiqlatheef?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/faiq_latheef&screen_name=faiqlatheef)
 <h1 align="center"> Hi there 👋 I'm Faiq  </h1>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
@@ -11,8 +10,8 @@
 - 🥅 Goals: Contribute more to projects and became best
 - ⚡ Fun fact: I love to go trip all around the world and make videos 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/faiq-latheef-29b0b616a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://www.instagram.com/faiqlatheef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://twitter.com/faiq_latheef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplified learner" height="30" width="40" /></a>
