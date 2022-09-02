@@ -34,4 +34,4 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Faiqlatheef" alt="Faiqlatheef" /></p>
 </details>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/Faiqlatheef)
