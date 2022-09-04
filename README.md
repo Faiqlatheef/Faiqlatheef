@@ -27,7 +27,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<img align="right" alt="coding" width="350" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="450" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p>
   <img align="left" alt="Faiqlatheef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Faiqlatheef&show_icons=true&hide_border=true" />
