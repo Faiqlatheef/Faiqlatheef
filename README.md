@@ -27,13 +27,14 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<img align="right" alt="coding" width="390" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqlatheef&show_icons=true&locale=en&layout=compact" alt="Faiqlatheef" /></p>
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p>
   <img align="left" alt="Faiqlatheef's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Faiqlatheef&show_icons=true&hide_border=true" />
 </p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faiqlatheef&show_icons=true&locale=en&layout=compact" alt="Faiqlatheef" /></p>
+
 </details>
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/Faiqlatheef.gif?z=6)](https://github4life.herokuapp.com/Faiqlatheef)
