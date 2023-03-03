@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Ffaiqlatheef.github.io/myFolio/)](https://faiqlatheef.github.io/myFolio/)
-![1_jB76MLZjiNhGSQQvxm7LSQ](https://user-images.githubusercontent.com/83378141/119193317-7438e300-ba4f-11eb-8b73-2ddb4fc84af5.gif)
+![1_jB76MLZjiNhGSQQvxm7LSQ](https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif)
 <h1 align="center"> Hi there 👋 I'm Faiq  </h1>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
