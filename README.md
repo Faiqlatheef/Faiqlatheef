@@ -1,5 +1,4 @@
-[![MasterHead](https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif)](https://faiqlatheef.github.io/myFolio/)
-
+[![MasterHead](https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif)](https://faiqlatheef.github.io/myFolio/)
 <h1 align="center"> Hi there 👋 I'm Faiq  </h1>
 <img align="right" alt="coding" width="450" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
